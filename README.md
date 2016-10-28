@@ -1,5 +1,5 @@
 ##awesome-java
-A curated list of awesome Java frameworks, libraries ,tools and software. The author stole the idea from awesome-go project so that people can make crappy clones.
+A curated list of awesome Java frameworks, libraries ,tools, site and software. The author stole the idea from awesome-go project so that people can make crappy clones.
 
 [netty](https://github.com/netty/netty).
 Netty is an asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients.
