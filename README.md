@@ -1,4 +1,4 @@
-##Awesome-Java [![awesome-go-Status-Image](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go)
+## Awesome-Java [![awesome-go-Status-Image](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go)
 A curated list of awesome Java frameworks, libraries ,tools, site and software. The author stole the idea from awesome-go project so that people can make crappy clones.
 
 [netty](https://github.com/netty/netty).
@@ -15,3 +15,11 @@ Supports the development of a number of open-source software projects, including
 
 [infoq](https://www.infoq.com/).
 InfoQ.com is a practitioner-driven community news site focused on facilitating the spread of knowledge and innovation in professional software development.
+
+
+
+
+## Contributing 
+Your contributions are always welcome!
+
+I will keep some pull requests open if I'm not sure whether those libraries are awesome.
