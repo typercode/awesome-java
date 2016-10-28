@@ -11,7 +11,7 @@ Hystrix is a latency and fault tolerance library designed to isolate points of a
 The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Applications but has since expanded to other test functions.
 
 **[Apache](http://www.apache.org/)**
-Supports the development of a number of open-source software projects, including the Apache web server. Includes license information, latest news, and project
+Supports the development of a number of open-source software projects, including the Apache web server. Includes license information, latest news, and project.
 
 **[InfoQ](https://www.infoq.com/)**
 InfoQ.com is a practitioner-driven community news site focused on facilitating the spread of knowledge and innovation in professional software development.
