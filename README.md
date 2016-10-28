@@ -1,4 +1,4 @@
-##awesome-java
+##awesome-java ![awesome-go-Status-Image](https://travis-ci.org/avelino/awesome-go.svg?branch=master)
 A curated list of awesome Java frameworks, libraries ,tools, site and software. The author stole the idea from awesome-go project so that people can make crappy clones.
 
 [netty](https://github.com/netty/netty).
