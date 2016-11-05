@@ -5,6 +5,12 @@ A curated list of awesome Java frameworks, libraries ,tools, sites and software.
 **[Apache](http://www.apache.org/)**
 Supports the development of a number of open-source software projects, including the Apache web server. Includes license information, latest news, and project.
 
+**[druid](https://github.com/alibaba/druid)**
+为监控而生的数据库连接池！(Note：Database connection pool for monitoring!)
+
+[fastjson]**(https://github.com/alibaba/fastjson)**
+A fast JSON parser/generator for Java.
+
 **[Guava](https://github.com/google/guava)**
 Google Core Libraries for Java 6+.
 
