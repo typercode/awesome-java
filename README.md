@@ -8,7 +8,7 @@ Supports the development of a number of open-source software projects, including
 **[druid](https://github.com/alibaba/druid)**
 为监控而生的数据库连接池！(Note：Database connection pool for monitoring!)
 
-[fastjson]**(https://github.com/alibaba/fastjson)**
+**[fastjson](https://github.com/alibaba/fastjson)**
 A fast JSON parser/generator for Java.
 
 **[Guava](https://github.com/google/guava)**
