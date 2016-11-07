@@ -23,6 +23,9 @@ InfoQ.com is a practitioner-driven community news site focused on facilitating t
 **[Jmeter](http://jmeter.apache.org/)**
 The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Applications but has since expanded to other test functions.
 
+**[jsoup](https://github.com/jhy/jsoup)**
+jsoup is a Java library for working with real-world HTML. It provides a very convenient API for extracting and manipulating data, using the best of DOM, CSS, and jquery-like methods.
+
 **[Netty](https://github.com/netty/netty)**
 Netty is an asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients.
 
