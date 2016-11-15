@@ -20,11 +20,14 @@ Hystrix is a latency and fault tolerance library designed to isolate points of a
 **[InfoQ](https://www.infoq.com/)**
 InfoQ.com is a practitioner-driven community news site focused on facilitating the spread of knowledge and innovation in professional software development.
 
+**[jitwatch](https://github.com/AdoptOpenJDK/jitwatch)**
+Log analyser / visualiser for Java HotSpot JIT compiler. Inspect inlining decisions, hot methods, bytecode, and assembly. View results in the JavaFX user interface.
+
 **[Jmeter](http://jmeter.apache.org/)**
 The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Applications but has since expanded to other test functions.
 
-**[jitwatch](https://github.com/AdoptOpenJDK/jitwatch)**
-Log analyser / visualiser for Java HotSpot JIT compiler. Inspect inlining decisions, hot methods, bytecode, and assembly. View results in the JavaFX user interface.
+**[jmh](http://openjdk.java.net/projects/code-tools/jmh/)**
+JMH is a Java harness for building, running, and analysing nano/micro/milli/macro benchmarks written in Java and other languages targetting the JVM.
 
 **[jsoup](https://github.com/jhy/jsoup)**
 jsoup is a Java library for working with real-world HTML. It provides a very convenient API for extracting and manipulating data, using the best of DOM, CSS, and jquery-like methods.
