@@ -32,7 +32,10 @@ JMH is a Java harness for building, running, and analysing nano/micro/milli/macr
 **[jsoup](https://github.com/jhy/jsoup)** library
 jsoup is a Java library for working with real-world HTML. It provides a very convenient API for extracting and manipulating data, using the best of DOM, CSS, and jquery-like methods.
 
-**[mybatis](https://github.com/mybatis/mybatis-3)**
+**[junit4](https://github.com/junit-team/junit4)**
+JUnit is a simple framework to write repeatable tests. It is an instance of the xUnit architecture for unit testing frameworks.
+
+**[mybatis-3](https://github.com/mybatis/mybatis-3)**
 The MyBatis SQL mapper framework makes it easier to use a relational database with object-oriented applications. MyBatis couples objects with stored procedures or SQL statements using a XML descriptor or annotations. Simplicity is the biggest advantage of the MyBatis data mapper over object relational mapping tools.
 
 **[netty](https://github.com/netty/netty)** framework
