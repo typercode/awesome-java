@@ -44,12 +44,12 @@ Netty is an asynchronous event-driven network application framework for rapid de
 **[protobuf](https://github.com/google/protobuf)**
 Google's data interchange format.
 
+**[quartz](https://github.com/quartz-scheduler/quartz)**
+Quartz is a richly featured, open source job scheduling library that can be integrated within virtually any Java application - from the smallest stand-alone application to the largest e-commerce system. Quartz can be used to create simple or complex schedules for executing tens, hundreds, or even tens-of-thousands of jobs; jobs whose tasks are defined as standard Java components that may execute virtually anything you may program them to do. The Quartz Scheduler includes many enterprise-class features, such as support for JTA transactions and clustering.
+
 **[visualvm](https://visualvm.github.io/)** tools
 VisualVM is a visual tool integrating commandline JDK tools and lightweight profiling capabilities.
 Designed for both development and production time use.
-
-**[quartz](https://github.com/quartz-scheduler/quartz)**
-Quartz is a richly featured, open source job scheduling library that can be integrated within virtually any Java application - from the smallest stand-alone application to the largest e-commerce system. Quartz can be used to create simple or complex schedules for executing tens, hundreds, or even tens-of-thousands of jobs; jobs whose tasks are defined as standard Java components that may execute virtually anything you may program them to do. The Quartz Scheduler includes many enterprise-class features, such as support for JTA transactions and clustering.
 
 ## Contributing 
 Your contributions are always welcome!
