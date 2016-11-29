@@ -35,6 +35,9 @@ jsoup is a Java library for working with real-world HTML. It provides a very con
 **[junit4](https://github.com/junit-team/junit4)**
 JUnit is a simple framework to write repeatable tests. It is an instance of the xUnit architecture for unit testing frameworks.
 
+**[mina](http://mina.apache.org/)**
+Apache MINA is a network application framework which helps users develop high performance and high scalability network applications easily. It provides an abstract event-driven asynchronous API over various transports such as TCP/IP and UDP/IP via Java NIO.
+
 **[mybatis-3](https://github.com/mybatis/mybatis-3)**
 The MyBatis SQL mapper framework makes it easier to use a relational database with object-oriented applications. MyBatis couples objects with stored procedures or SQL statements using a XML descriptor or annotations. Simplicity is the biggest advantage of the MyBatis data mapper over object relational mapping tools.
 
