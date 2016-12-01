@@ -19,6 +19,9 @@ Google Core Libraries for Java 6+.
 **[hystrix](https://github.com/Netflix/Hystrix)** library
 Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 
+**[idea](https://www.jetbrains.com/idea/)**
+The most intelligent Java IDEA.
+
 **[infoq](https://www.infoq.com/)** site
 InfoQ.com is a practitioner-driven community news site focused on facilitating the spread of knowledge and innovation in professional software development.
 
