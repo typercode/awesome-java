@@ -43,6 +43,9 @@ JUnit is a simple framework to write repeatable tests. It is an instance of the 
 **[leetcode](https://leetcode.com/)**
 LeetCode OJ is a platform for preparing technical coding interviews.
 
+**[log4j 2](http://logging.apache.org/log4j/2.x/)**
+Apache Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback's architecture.
+
 **[maven](https://maven.apache.org/)**
 Apache Maven is a software project management and comprehension tool.Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.
 
