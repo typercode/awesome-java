@@ -72,6 +72,8 @@ Designed for both development and production time use.
 The best Java runtime for business-critical applications. 
 Zing® is ideal for systems that require predictable performance and pauseless operation.
 
+**[Code Climate/codeclimate](https://github.com/codeclimate/codeclimate)**
+Code Climate’s engineering process insights and automated code review for GitHub.
 
 ## Contributing 
 Your contributions are always welcome!
