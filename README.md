@@ -1,4 +1,4 @@
-## Awesome-Java [![awesome-go-Status-Image](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go)
+## Awesome-Java [![awesome-go-Status-Image](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 A curated list of awesome Java frameworks, libraries ,tools, sites, softwares and others(With the development of java). The author stole the idea from awesome-go project so that people can make crappy clones.
 
 **[activemq](http://activemq.apache.org/)**
